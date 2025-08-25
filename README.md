@@ -11,3 +11,5 @@ For security audit inquiries, you can reach out to us on:
 - Discord - [@destinyae](https://discord.gg/destinyae)
 
 ## Security Portfolio
+
+1. [RelayPool - Unsafe use of `Delegatecall`](https://gist.github.com/destinyae/69511c786400fc66024efb9de84975dc?permalink_comment_id=5727343#gistcomment-5727343)
